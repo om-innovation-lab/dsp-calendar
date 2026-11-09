@@ -1,0 +1,33 @@
+name: Update calendar
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-calendar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install icalendar recurring-ical-events
+      - name: Fetch events
+        env:
+          ICS_URL: https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/73d90561-6591-4ff5-8dfc-bb3b7b8e19b3/cid-133C3D43F1F0F870/calendar.ics
+        run: python scripts/fetch_events.py
+      - name: Save changes
+        run: |
+          git config user.name "calendar-bot"
+          git config user.email "calendar-bot@users.noreply.github.com"
+          git add data/events.json
+          git diff --cached --quiet || (git commit -m "Update events" && git push)
