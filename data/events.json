@@ -1,1 +1,21 @@
-{"events":[]}
+{
+ "events": [
+  {
+   "title": "🟣 NCD | NCD Open day",
+   "start": "2026-11-30T07:30+04:00",
+   "end": "2026-11-30T14:30+04:00",
+   "allDay": false,
+   "location": "قاعة المرأه العمانية المضيبي",
+   "description": ""
+  },
+  {
+   "title": "🟣 NCD | Diabetes Workshop",
+   "start": "2026-12-09T07:30+04:00",
+   "end": "2026-12-09T14:30+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  }
+ ],
+ "updated": "2026-11-09T13:29+04:00"
+}
