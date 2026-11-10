@@ -1,11 +1,67 @@
 {
  "events": [
   {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2026-11-04T08:00+04:00",
+   "end": "2026-11-04T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2026-11-11T08:00+04:00",
+   "end": "2026-11-11T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "🟡 OHS meeting",
+   "start": "2026-11-11T11:00+04:00",
+   "end": "2026-11-11T11:30+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2026-11-18T08:00+04:00",
+   "end": "2026-11-18T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "🟣 NCD ورشة  إفحص ووإطمئن",
+   "start": "2026-11-19T07:30+04:00",
+   "end": "2026-11-19T14:30+04:00",
+   "allDay": false,
+   "location": "مسقط",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2026-11-25T08:00+04:00",
+   "end": "2026-11-25T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
    "title": "🟣 NCD | NCD Open day",
    "start": "2026-11-30T07:30+04:00",
    "end": "2026-11-30T14:30+04:00",
    "allDay": false,
    "location": "قاعة المرأه العمانية المضيبي",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2026-12-02T08:00+04:00",
+   "end": "2026-12-02T09:00+04:00",
+   "allDay": false,
+   "location": "",
    "description": ""
   },
   {
@@ -15,7 +71,183 @@
    "allDay": false,
    "location": "",
    "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2026-12-09T08:00+04:00",
+   "end": "2026-12-09T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2026-12-16T08:00+04:00",
+   "end": "2026-12-16T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2026-12-23T08:00+04:00",
+   "end": "2026-12-23T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2026-12-30T08:00+04:00",
+   "end": "2026-12-30T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-01-06T08:00+04:00",
+   "end": "2027-01-06T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-01-13T08:00+04:00",
+   "end": "2027-01-13T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-01-20T08:00+04:00",
+   "end": "2027-01-20T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-01-27T08:00+04:00",
+   "end": "2027-01-27T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-02-03T08:00+04:00",
+   "end": "2027-02-03T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-02-10T08:00+04:00",
+   "end": "2027-02-10T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-02-17T08:00+04:00",
+   "end": "2027-02-17T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-02-24T08:00+04:00",
+   "end": "2027-02-24T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-03-03T08:00+04:00",
+   "end": "2027-03-03T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-03-10T08:00+04:00",
+   "end": "2027-03-10T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-03-17T08:00+04:00",
+   "end": "2027-03-17T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-03-24T08:00+04:00",
+   "end": "2027-03-24T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-03-31T08:00+04:00",
+   "end": "2027-03-31T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-04-07T08:00+04:00",
+   "end": "2027-04-07T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-04-14T08:00+04:00",
+   "end": "2027-04-14T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-04-21T08:00+04:00",
+   "end": "2027-04-21T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-04-28T08:00+04:00",
+   "end": "2027-04-28T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "Moh Weekly Meeting - online",
+   "start": "2027-05-05T08:00+04:00",
+   "end": "2027-05-05T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
   }
  ],
- "updated": "2026-11-09T13:29+04:00"
+ "updated": "2026-11-10T10:22+04:00"
 }
