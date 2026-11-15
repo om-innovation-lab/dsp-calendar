@@ -41,11 +41,11 @@
    "description": ""
   },
   {
-   "title": "🟡 OHS - Patients Safety Orientation Programm",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "allDay": true,
-   "location": "Directorate Meeting Room",
+   "title": "🟡 OHS- Occupational health workshop",
+   "start": "2026-11-17T08:00+04:00",
+   "end": "2026-11-19T14:00+04:00",
+   "allDay": false,
+   "location": "",
    "description": ""
   },
   {
@@ -97,11 +97,11 @@
    "description": ""
   },
   {
-   "title": "🔵 CDP Governorate TB and HIV workshop",
+   "title": "🔴 Director World Aids day",
    "start": "2026-12-08",
    "end": "2026-12-08",
    "allDay": true,
-   "location": "DGHS conference hall 8 AM",
+   "location": "Muscat",
    "description": ""
   },
   {
@@ -117,6 +117,22 @@
    "start": "2026-12-09T08:00+04:00",
    "end": "2026-12-09T09:00+04:00",
    "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
+   "title": "🔴 Director HIV workshop",
+   "start": "2026-12-10",
+   "end": "2026-12-10",
+   "allDay": true,
+   "location": "Muscat",
+   "description": ""
+  },
+  {
+   "title": "🔵 CDP Governorate TB and HIV workshop",
+   "start": "2026-12-14",
+   "end": "2026-12-14",
+   "allDay": true,
    "location": "",
    "description": ""
   },
@@ -281,5 +297,5 @@
    "description": ""
   }
  ],
- "updated": "2026-11-11T21:25+04:00"
+ "updated": "2026-11-15T14:42+04:00"
 }
