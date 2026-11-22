@@ -73,6 +73,14 @@
    "description": ""
   },
   {
+   "title": "🟡 OHS - Occupational Health orientation- Chamber of Commerce",
+   "start": "2026-11-24T08:00+04:00",
+   "end": "2026-11-24T09:00+04:00",
+   "allDay": false,
+   "location": "",
+   "description": ""
+  },
+  {
    "title": "⚪ General | MOH Weekly Meeting - online",
    "start": "2026-11-25T08:00+04:00",
    "end": "2026-11-25T09:00+04:00",
@@ -305,5 +313,5 @@
    "description": ""
   }
  ],
- "updated": "2026-11-18T15:30+04:00"
+ "updated": "2026-11-22T15:09+04:00"
 }
